@@ -27,6 +27,7 @@ class VehicleCamera extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // ignore: unused_local_variable
     final size = MediaQuery.of(context).size;
 
     return Container(

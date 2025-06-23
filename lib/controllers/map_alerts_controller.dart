@@ -51,6 +51,7 @@ class MapAlertsController extends ChangeNotifier {
                   borderRadius: const BorderRadius.all(Radius.circular(10.0)),
                   boxShadow: [
                     BoxShadow(
+                      // ignore: deprecated_member_use
                       color: Colors.black.withOpacity(0.2),
                       spreadRadius: 2,
                       blurRadius: 5,
@@ -77,6 +78,7 @@ class MapAlertsController extends ChangeNotifier {
             );
           }
         },
+        // ignore: deprecated_member_use
         icon: BitmapDescriptor.fromBytes(
           await imageToBytes(asset: asset),
         ));

@@ -5,7 +5,7 @@ import 'package:custom_info_window/custom_info_window.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_cluster_manager/google_maps_cluster_manager.dart'
-    show Cluster, ClusterManager;
+        as cluster_manager_lib show Cluster, ClusterManager;
 import 'package:google_maps_flutter/google_maps_flutter.dart' as gmaps;
 
 import 'package:prosecat/generated/l10n.dart';
@@ -39,7 +39,7 @@ class MapController extends ChangeNotifier {
   Item? itemdeviceOverview;
   bool openDeviceOverview = false;
   int deviceIndex = 0;
-  late ClusterManager _manager;
+  late cluster_manager_lib.ClusterManager _manager;
 
   final Map<gmaps.PolygonId, gmaps.Polygon> _polygons = {};
   Set<gmaps.Polygon> get polygons => _polygons.values.toSet();
@@ -162,6 +162,7 @@ class MapController extends ChangeNotifier {
     final Color color = hexToColor(code);
     gmaps.Polygon polygon = gmaps.Polygon(
       polygonId: polylinId,
+      // ignore: deprecated_member_use
       fillColor: color.withOpacity(0.5),
       strokeColor: color,
       strokeWidth: 3,
@@ -175,6 +176,7 @@ class MapController extends ChangeNotifier {
     final imageBytes = await getTextOnlyMarker(
       name,
       fontSize: 35,
+      // ignore: deprecated_member_use
       backgroundColor: color.withOpacity(0.5),
       shadowColor: Colors.black,
       imageHeight: 75.0, // Alto personalizado de la imagen
@@ -319,7 +321,7 @@ class MapController extends ChangeNotifier {
     notifyListeners();
   }
 
-  ClusterManager get getManager => _manager;
+  cluster_manager_lib.ClusterManager get getManager => _manager;
 
   Item? get getDeviceOverviewItem => itemdeviceOverview;
   set setDeviceOverviewItem(int index) {
@@ -404,8 +406,8 @@ class MapController extends ChangeNotifier {
     _manager = _initClusterManager();
   }
 
-  ClusterManager<Place> _initClusterManager() {
-    return ClusterManager<Place>(
+  cluster_manager_lib.ClusterManager<Place> _initClusterManager() {
+    return cluster_manager_lib.ClusterManager<Place>(
       getItems,
       _updateMarkers,
       markerBuilder: _markerBuilder as Future<gmaps.Marker> Function(dynamic),
@@ -438,6 +440,7 @@ class MapController extends ChangeNotifier {
         moveCamera(position);
         addCustomInfoWindow(infoWindowText, position);
       },
+      // ignore: deprecated_member_use
       icon: gmaps.BitmapDescriptor.fromBytes(byteData),
     );
     nonClusteringMarkers.add(marker);
@@ -454,6 +457,7 @@ class MapController extends ChangeNotifier {
         moveCamera(position);
         addCustomInfoWindow(infoWindowText, position);
       },
+      // ignore: deprecated_member_use
       icon: gmaps.BitmapDescriptor.fromBytes(byteData),
     );
     nonClusteringLabels.add(marker);
@@ -532,13 +536,14 @@ class MapController extends ChangeNotifier {
         await pictureRecorder.endRecording().toImage(size, size);
     final ByteData? byteData =
         await image.toByteData(format: ui.ImageByteFormat.png);
+    // ignore: deprecated_member_use
     return gmaps.BitmapDescriptor.fromBytes(byteData!.buffer.asUint8List());
   }
 
   // --- FIN CAMBIOS ---
 
   //Crear marcadores con cluster manager
-  Future<gmaps.Marker> Function(Cluster<Place>) get _markerBuilder =>
+  Future<gmaps.Marker> Function(cluster_manager_lib.Cluster<Place>) get _markerBuilder =>
       (final cluster) async {
         String? path;
         String? asset;
@@ -549,7 +554,6 @@ class MapController extends ChangeNotifier {
         int speed = 0;
         String distanceUnitHour = '';
         String iconColor = '';
-        String time = '';
 
         for (var element in cluster.items) {
           path = element.path;
@@ -561,7 +565,6 @@ class MapController extends ChangeNotifier {
           speed = element.speed;
           distanceUnitHour = element.distanceUnitHour;
           iconColor = element.iconColor;
-          time = element.time;
         }
 
         gmaps.BitmapDescriptor markerIcon;
@@ -708,6 +711,7 @@ class MapController extends ChangeNotifier {
             borderRadius: const BorderRadius.all(Radius.circular(10.0)),
             boxShadow: [
               BoxShadow(
+                // ignore: deprecated_member_use
                 color: Colors.black.withOpacity(0.2),
                 spreadRadius: 2,
                 blurRadius: 5,

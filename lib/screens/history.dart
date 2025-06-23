@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use, avoid_print
+
 import 'package:flutter/material.dart';
 import 'package:date_field/date_field.dart';
 import 'package:prosecat/generated/l10n.dart';
@@ -154,8 +156,7 @@ class History extends StatelessWidget {
                                 parsedDateTo.second);
 
                             if (value!.isAfter(parsedDateTo)) {
-                              print('es mayor');
-                              device.setDateTo = DateTime(
+                               device.setDateTo = DateTime(
                                 DateTime.now().year,
                                 DateTime.now().month,
                                 DateTime.now().day,

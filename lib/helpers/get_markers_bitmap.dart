@@ -90,5 +90,6 @@ Future<BitmapDescriptor> getMarkerBitmap(
   }
   final data = await img.toByteData(format: ui.ImageByteFormat.png) as ByteData;
 
+  // ignore: deprecated_member_use
   return BitmapDescriptor.fromBytes(data.buffer.asUint8List());
 }

@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:just_the_tooltip/just_the_tooltip.dart';
@@ -455,7 +457,9 @@ class _OverviewAlertsState extends State<OverviewAlerts> {
     setState(() {});
 
     if (scrollController.position.pixels + 100 <=
-        scrollController.position.maxScrollExtent) return;
+        scrollController.position.maxScrollExtent) {
+      return;
+    }
 
     scrollController.animateTo(scrollController.position.pixels + 120,
         duration: const Duration(milliseconds: 300),

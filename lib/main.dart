@@ -8,6 +8,7 @@ import 'package:prosecat/preferences/preference.dart';
 import 'package:prosecat/system/global.dart';
 import 'package:prosecat/theme/theme_data.dart';
 import 'package:provider/provider.dart';
+// ignore: depend_on_referenced_packages
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'helpers/navigator_key.dart';
 

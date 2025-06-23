@@ -42,6 +42,7 @@ class Alerts extends StatelessWidget {
             ],
           ),
       body: PopScope(
+        // ignore: deprecated_member_use
         onPopInvoked: (bool value){
           Provider.of<DeviceProvider>(context, listen: false).resume();          
         },
@@ -107,6 +108,7 @@ class _BottomSheetItemsColumnState extends State<BottomSheetItemsColumn> {
   Future<void> _initData() async {
     await Future.microtask(() async{
             
+      // ignore: use_build_context_synchronously
       _alertsResponse = await Provider.of<DeviceProvider>(context, listen: false).getAlerts();        
       
 

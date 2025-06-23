@@ -24,7 +24,6 @@ class CommandsResponse {
     final defaultData = (attributes != null && attributes.isNotEmpty)
         ? attributes.first["default"] ?? ""
         : "";
-    print(defaultData);
     return CommandsResponse(
       type: json["type"],
       title: json["title"],

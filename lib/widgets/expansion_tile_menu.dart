@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_print
+
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 import 'package:prosecat/models/device_response.dart';

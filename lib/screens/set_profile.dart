@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/material.dart';
 import 'package:prosecat/generated/l10n.dart';
 import 'package:prosecat/helpers/helpers.dart';

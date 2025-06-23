@@ -1,11 +1,10 @@
-import 'package:prosecat/generated/l10n.dart';
 import 'package:flutter/material.dart';
 import 'package:prosecat/system/global.dart';
 
 class LoginFooter extends StatelessWidget {
   final double screenWidth;
 
-  const LoginFooter({Key? key, required this.screenWidth}) : super(key: key);
+  const LoginFooter({super.key, required this.screenWidth});
 
   @override
   Widget build(BuildContext context) {

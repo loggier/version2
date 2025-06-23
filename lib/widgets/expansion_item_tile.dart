@@ -118,8 +118,7 @@ class ExpansionItemTile extends StatelessWidget {
               //   mapController.mapController!.dispose();
               //   mapController.allDeviceSubscription!.cancel();
               // }
-              print('SALIDAAAAAAAAAA 2');
-
+ 
               Navigator.pop(context);
               Provider.of<PagesProvider>(context, listen: false)
                   .animateToPage(0);

@@ -12,7 +12,7 @@ class StreamingScreen extends StatefulWidget {
 
 class _StreamingScreenState extends State<StreamingScreen> {
   final List<VlcPlayerController> _controllers = [];
-  final List<VoidCallback> _listeners = []; // Para remover luego si quieres
+// Para remover luego si quieres
 
   @override
   void initState() {
@@ -20,6 +20,7 @@ class _StreamingScreenState extends State<StreamingScreen> {
 
     // Crea un controlador por cada URL
     for (var url in widget.videoUrls) {
+      // ignore: avoid_print
       print('URL: $url');
       final controller = VlcPlayerController.network(
         url,
@@ -68,11 +69,14 @@ class _StreamingScreenState extends State<StreamingScreen> {
   /// Play/Pause específico de cada video
   void togglePlayPause(int index) {
     final ctrl = _controllers[index];
+    // ignore: avoid_print
     print(ctrl.getVideoTrack());
+    // ignore: avoid_print
     print(ctrl.value.isPlaying);
     if (ctrl.value.isPlaying) {
       ctrl.pause();
     } else {
+      // ignore: avoid_print
       print('play');
 
       ctrl.play();
@@ -135,7 +139,7 @@ class _StreamingScreenState extends State<StreamingScreen> {
               SizedBox(
                 width: 120,
                 child: Slider(
-                  value: (_controllers[index].value.volume ?? 0) / 100.0,
+                  value: (_controllers[index].value.volume) / 100.0,
                   onChanged: (val) => setVolume(index, val),
                   min: 0.0,
                   max: 1.0,
