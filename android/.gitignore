@@ -6,9 +6,7 @@ gradle-wrapper.jar
 /local.properties
 GeneratedPluginRegistrant.java
 .cxx/
-/android/
-/ios/
-
+/ios/Pods/
 
 
 # Remember to never publicly share your keystore.
