@@ -1,0 +1,168 @@
+{
+    "etiquetaNombreDeUsuario": "Nom d'usuari",
+    "seHaEnviadoElComando": "S'ha enviat l'ordre",
+    "etiquetaContrasena": "Contrasenya",
+    "validacionNombreDeUsuario": "El valor ingressat no és un correu",
+    "validacionContrasena": "La contrasenya ha de ser superior a 6 caràcters",
+    "validacionIdioma": "Selecciona una opció",
+    "idioma": "Idioma",
+    "espanol": "Espanyol",
+    "ingles": "Angles",
+    "catalan": "Català",
+    "labelIniciarSesion": "Iniciar sessió",
+    "prosecat": "Sistema de Rastreig Satelital",
+    "mensaje": "Missatge",
+    "errorMensaje": "Dades incorrectes",
+    "aceptarMensaje": "Acceptar",
+
+    "labelMapas": "Mapes",
+    "labelMapa": "Mapa",
+    "labelExpandir": "Expandir",
+    "labelRutas": "Geoprop",
+    "labelMiUbicacion": "Mostra gir",
+
+    "labelDispositivos": "Dispositius",
+    "labelAlertas": "Alertes",
+    "labelHistorial": "Historial",
+    "labelPerfil": "Perfil",
+    "labelSalir": "Sortir",
+
+    "labelResumen": "Resum",
+    "labelDetalle": "Detall",
+    "labelVelocidadMaxima": "Velocitat Maxima",
+    "labelDistancia": "Distància",
+    "labelMotorInactivo": "Motor inactiu",
+    "labelConductor": "Conductor",
+
+    "labelDireccion": "Direcció",
+    "labelTiempo": "Temps",
+    "labelDuracionDeParada": "Duració de parada",
+    
+    "labelTodos": "Tots",    
+    "labelEnLinea": "En línia",    
+    "labelDetenido": "Detingut",    
+    "labelDesconectado": "Desconnectat",       
+    "labelFueraLinea": "Fora de línia",  
+
+    "labelMostrarDia": "Mostrar dia",    
+    "haceSieteDias": "Fa set dies",   
+    "haceTresDias": "Fa tres dies",    
+    "anteayer": "Abans-d'ahir",     
+    "ayer": "Ahir",    
+    "hoy": "Avui",    
+    "manana": "Demà",    
+    "labelDesde": "Des de",    
+    "labelHasta": "Fins a",    
+    "labelAjustarCarretera": "Ajustar a carretera",    
+    "si": "Si",    
+    "no": "No",    
+    "labelMostrarHistorial": "Mostrar històric",    
+    "labelCancelar": "Cancel·lar",
+    "errorNoElPrimerDia": "No el primer dia",
+
+    "labelAjustarPerfil": "Ajustar perfil",
+    "labelCorreoElectronico": "Correu electronic",
+    "labelNuevaContrasena": "Nova contrasenya",
+    "labelConfirmarContrasena": "Confirmar contrasenya",
+    "labelCambiarClave": "Canviar clau",
+    
+    "tituloCompartir": "Compartir",
+    "labelSeleccioneLaFechaVigente": "Seleccioneu la data vigent",
+    "labelGenerarLink": "Generar link",
+        
+    "labelComando": "Ordres",
+    "labelSinComandos": "Sense ordres",
+
+    "labelDeseaEnviarElComando": "Voleu enviar l'ordre",
+    "labelAlaUnidad": "a la unitat",
+
+    "labelBuscar": "Cerca",
+    
+    "labelNombre": "nom",
+    "labelFecha": "data",
+    "labelPosicion": "posició",
+    "labelVelocidad": "velocitat",
+    "labelAlerta": "alerta",
+    
+    "labelConduccion": "Conducció",
+    "labelInicio": "Inici",
+    "labelFinalizo": "Finalitzat",
+    "labelParada": "Parada",
+    "labelFinDeConduccion": "Fi de la conducció",
+    "labelEvento": "Esdeveniment",
+
+    "labelSensores": "Sensors",
+
+    "labelDispositivo": "Dispositiu",
+
+    "errorFechaMayor": "La data inicial no pot ser més gran que la data final",
+    "errorFechaMenor": "La data final no pot ser menor que la data inicial",
+
+    "errorSinDatos": "No es van trobar dades",
+
+    "errorSeleccioneUnVehiculo": "Seleccioneu un vehicle",
+
+    "labelVerUbicacion": "Veure ubicació",
+
+    "labelSeleccioneUnaFecha": "Seleccioneu una data",
+
+    "labelVistaDeCalle": "Vista de carrer",
+    "labelLatitud": "Latitud",
+    "labelLongitud": "Longitud",
+    "labelAltitud": "Altitud",
+    "labelArribo": "Sortida",
+    "labelPartio": "Arribada",
+    "labelDuracion": "Durada",
+    "labelConsumo": "Consum",
+    "labelCombustible": "Combustible",
+
+    "labelConfirmar": "Confirmar",
+
+    "labelSinAlertas": "Sense alertes",
+
+    "labelLineasDeVelocidad": "Línies de velocitat",
+    "labelLineaVerde": "Línia verda: velocitat menor a",
+    "labelLineaAmarilla": "Línia groga: velocitat menor a",
+    "labelLineaRoja": "Línia vermella: velocitat major a",
+
+    "labelTelefono": "Telèfon",
+    "labelInformacionDeContacto": "Informació de contacte",
+
+    "labelDispositivoPorVencer": "{howMany, plural, one{té 1 dispositiu per vèncer} other{té {howMany} dispositius per vèncer}}",
+    "labelExpiracion": "Expiració",
+    "labelFechaExpiracion": "Data d'expiració",
+    "labelContrasenaNoCoincide": "Les contrasenyes no coincideixen",
+    "labelMostrarRecorrido": "Mostra recorregut",
+
+    "labelAngulo": "Angle",
+
+    "labelIrA": "Anar a {ruta}",
+    "labelUltimaConexion": "Ultima connexio",
+    "labelEncendido": "Encès",
+    "labelApagado": "Apagat",
+    "labelBateriaInterna": "Bateria interna",
+    
+    "labelMostrarMas": "Mostrar més",
+    "labelmostrarMenos": "Mostrar menys",
+    "labelmostrarRecorrido": "Mostra recorregut",
+    "descripcion": "Descripció",
+    "puntosDeInteres": "Punts d'interès",
+    "informe": "Informe",
+    "tipoDeInforme": "Tipus d'informe",
+    "vehiculos": "Vehicle(s)",
+    "consultar": "Consultar",
+    "errorSeleccioneUnInforme": "Seleccioneu un informe",
+    "errorAlObtenerLosInformes": "Error en obtenir els informes",
+    "errorSeleccioneUnDocumento": "Seleccioneu un document",
+    "tipoDeDocumento": "Tipus de document",
+    "generarInforme": "Generar informe",
+    "ingreseUnValor": "Introduïu un valor",
+    "seleccioneUnValor": "Seleccioneu un valor",
+    "archivoDescargado": "Arxiu descarregat",
+    "problemasAlDescargarElArchivo": "Problemes en descarregar l'arxiu",
+    "center": "Centrar",
+    "lockEngine": "Bloquejar motor",
+    "desbloquearMotor": "Desbloquejar motor",
+    "desbloquear": "Desbloquejar",
+    "bloquear": "Bloquejar"
+}

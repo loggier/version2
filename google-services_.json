@@ -1,0 +1,537 @@
+{
+  "project_info": {
+    "project_number": "70048087638",
+    "firebase_url": "https://global-system-gps.firebaseio.com",
+    "project_id": "global-system-gps",
+    "storage_bucket": "global-system-gps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:05b2c301cd882e5ba045f7",
+        "android_client_info": {
+          "package_name": "cl.lockygps.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:acf599c83363d267a045f7",
+        "android_client_info": {
+          "package_name": "cl.redcarogps.gps.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:0efe4f828631a3fda045f7",
+        "android_client_info": {
+          "package_name": "cl.security.gps.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:16172e4bd8018fdda045f7",
+        "android_client_info": {
+          "package_name": "com.global.system.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:3ca2932ea35dc1ada045f7",
+        "android_client_info": {
+          "package_name": "com.globalsystemgps.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:34768e3e98b80786a045f7",
+        "android_client_info": {
+          "package_name": "com.globalsystemgps.v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:f26543748eb7107ea045f7",
+        "android_client_info": {
+          "package_name": "com.globalsystemgpsclient.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:3e29bd3572843e94a045f7",
+        "android_client_info": {
+          "package_name": "com.gpsnavy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:39fec377ed7358dda045f7",
+        "android_client_info": {
+          "package_name": "com.gpsnavy.luctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:df52d3488774542fa045f7",
+        "android_client_info": {
+          "package_name": "com.gpsnavy.security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:ab564ede472a7fdca045f7",
+        "android_client_info": {
+          "package_name": "com.myposition24gps.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:0ccc4068760aa000a045f7",
+        "android_client_info": {
+          "package_name": "com.prosecat.v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:00cc5b39e72e1a18a045f7",
+        "android_client_info": {
+          "package_name": "com.ubicalogpschile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70048087638:android:17617b2588e2afd1a045f7",
+        "android_client_info": {
+          "package_name": "com.ubigalileo.prosecat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70048087638-ghgju0a7kockmv9n0dqkm2iui63rr40a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ubigalileo.prosecat",
+            "certificate_hash": "be12ad2ea72373b111863654a6c88ba94ee7e64e"
+          }
+        },
+        {
+          "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf_JRbV9sIpZl9EnFSc09_IwhW1oWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70048087638-4ga7ui6q92rjf9cvg8msv2i5m6tv6jm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70048087638-03d0kibnp8294573cidnlm46dpi51voc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myposition24gps.gps",
+                "app_store_id": "1565491879"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

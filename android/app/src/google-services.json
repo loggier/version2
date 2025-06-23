@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "394806907148",
+    "firebase_url": "https://clientes-gps.firebaseio.com",
+    "project_id": "clientes-gps",
+    "storage_bucket": "clientes-gps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394806907148:android:787837a51df6c5459bb929",
+        "android_client_info": {
+          "package_name": "com.clientesgps.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHXANawMvV4AnQh54MVfpzB2nzEFaIfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394806907148:android:fb6ecd33eac35de09bb929",
+        "android_client_info": {
+          "package_name": "com.grupoims.trian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHXANawMvV4AnQh54MVfpzB2nzEFaIfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394806907148:android:6f33a3b793b5ffd19bb929",
+        "android_client_info": {
+          "package_name": "com.grupoims.trian.plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHXANawMvV4AnQh54MVfpzB2nzEFaIfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394806907148:android:53b08697c16fcf489bb929",
+        "android_client_info": {
+          "package_name": "com.grupoims.trianplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHXANawMvV4AnQh54MVfpzB2nzEFaIfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394806907148:android:abf051451de9f32b9bb929",
+        "android_client_info": {
+          "package_name": "net.gpsplataforma.version2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHXANawMvV4AnQh54MVfpzB2nzEFaIfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

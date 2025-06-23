@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>V2 Cliente</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>V2 Cliente_wox3</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>V2 Cliente necesita acceso a la cámara para permitir la captura de imágenes y escaneo de documentos relacionados con la seguridad del vehículo.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>V2 Cliente utiliza tu ubicación en segundo plano para garantizar un seguimiento constante de los vehículos, incluso cuando la aplicación no esté en uso.</string>
+	<key>NSLocationTemporaryUsageDescriptionDictionary</key>
+	<dict>
+		<key>V2 Clienteing</key>
+		<string>V2 Cliente utiliza tu ubicación temporalmente para proporcionar actualizaciones en tiempo real y mejorar la precisión del rastreo de vehículos.</string>
+	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>V2 Cliente necesita acceso a tu ubicación para mostrar rutas y monitorear el estado de los vehículos en tiempo real.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>V2 Cliente necesita acceder al micrófono para grabar audios durante el reporte de incidentes de seguridad.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>V2 Cliente necesita acceder a tu biblioteca de fotos para que puedas subir imágenes de incidentes o documentos importantes.</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>

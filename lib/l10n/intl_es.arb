@@ -1,0 +1,168 @@
+{
+    "etiquetaNombreDeUsuario": "Nombre de usuario",
+    "seHaEnviadoElComando": "Se ha enviado el comando",
+    "etiquetaContrasena": "Contraseña",
+    "validacionNombreDeUsuario": "El valor ingresado no es un correo",
+    "validacionContrasena": "La contraseña debe ser mayor a 6 caracteres",
+    "validacionIdioma": "Selecciona una opción",
+    "idioma": "Idioma",
+    "espanol": "Español",
+    "ingles": "Ingles",
+    "catalan": "Catalán",
+    "labelIniciarSesion": "Iniciar sesión",
+    "prosecat": "Sistema de Rastreo Satelital",
+    "mensaje": "Mensaje",
+    "errorMensaje": "Datos incorrectos",
+    "aceptarMensaje": "Aceptar",
+
+    "labelMapas": "Mapas",
+    "labelMapa": "Mapa",
+    "labelExpandir": "Expandir",
+    "labelRutas": "Geocercas",
+    "labelMiUbicacion": "Mostrar giro",
+
+    "labelDispositivos": "Dispositivos",
+    "labelAlertas": "Alertas",
+    "labelHistorial": "Historial",
+    "labelPerfil": "Perfil",
+    "labelSalir": "Salir",
+
+    "labelResumen": "Resumen",
+    "labelDetalle": "Detalle",
+    "labelVelocidadMaxima": "Velocidad Máxima",
+    "labelDistancia": "Distancia",
+    "labelMotorInactivo": "Motor inactivo",
+    "labelConductor": "Conductor",
+
+    "labelDireccion": "Dirección",
+    "labelTiempo": "Tiempo",
+    "labelDuracionDeParada": "Duración de parada",
+    
+    "labelTodos": "Todos",    
+    "labelEnLinea": "En línea",    
+    "labelDetenido": "Detenido",    
+    "labelDesconectado": "Desconectado",    
+    "labelFueraLinea": "Fuera de línea",  
+
+    "labelMostrarDia": "Mostrar día",    
+    "haceSieteDias": "Hace siete días",    
+    "haceTresDias": "Hace tres días",    
+    "anteayer": "Anteayer",    
+    "ayer": "Ayer",    
+    "hoy": "Hoy",    
+    "manana": "Mañana",    
+    "labelDesde": "Desde",    
+    "labelHasta": "Hasta",    
+    "labelAjustarCarretera": "Ajustar a carretera",    
+    "si": "Si",    
+    "no": "No",    
+    "labelMostrarHistorial": "Mostrar Historial",    
+    "labelCancelar": "Cancelar",
+    "errorNoElPrimerDia": "No el primer día",
+
+    "labelAjustarPerfil": "Ajustar perfil",
+    "labelCorreoElectronico": "Correo electrónico",
+    "labelNuevaContrasena": "Nueva contraseña",
+    "labelConfirmarContrasena": "Confirmar contraseña",
+    "labelCambiarClave": "Cambiar clave",
+    
+    "tituloCompartir": "Compartir",
+    "labelSeleccioneLaFechaVigente": "Seleccione la fecha de vigencia",
+    "labelGenerarLink": "Generar link",
+        
+    "labelComando": "Comandos",
+    "labelSinComandos": "Sin comandos",
+
+    "labelDeseaEnviarElComando": "Desea enviar el comando",
+    "labelAlaUnidad": "a la unidad",
+
+    "labelBuscar": "Buscar",
+    
+    "labelNombre": "Nombre",
+    "labelFecha": "Fecha",
+    "labelPosicion": "Posición",
+    "labelVelocidad": "Velocidad",
+    "labelAlerta": "Alerta",
+    
+    "labelConduccion": "Conducción",
+    "labelInicio": "Inicio",
+    "labelFinalizo": "Finalizado",
+    "labelParada": "Parada",
+    "labelFinDeConduccion": "Fin de conducción",
+    "labelEvento": "Evento",
+
+    "labelSensores": "Sensores",
+
+    "labelDispositivo": "Dispositivo",
+
+    "errorFechaMayor": "La fecha inicial no puede ser mayor que la fecha final",
+    "errorFechaMenor": "La fecha final no puede ser menor que la fecha inicial",
+
+    "errorSinDatos": "No se encontraron datos",
+
+    "errorSeleccioneUnVehiculo": "Seleccione un vehículo",
+
+    "labelVerUbicacion": "Ver ubicación",
+
+    "labelSeleccioneUnaFecha": "Seleccione una fecha",
+
+    "labelVistaDeCalle": "Vista de calle",
+    "labelLatitud": "Latitud",
+    "labelLongitud": "Longitud",
+    "labelAltitud": "Altitud",
+    "labelArribo": "Arribó",
+    "labelPartio": "Partió",
+    "labelDuracion": "Duración",
+    "labelConsumo": "Consumo",
+    "labelCombustible": "Combustible",
+
+    "labelConfirmar": "Confirmar",
+
+    "labelSinAlertas": "Sin alertas",
+
+    "labelLineasDeVelocidad": "Líneas de velocidad",
+    "labelLineaVerde": "Línea verde: velocidad menor a",
+    "labelLineaAmarilla": "Línea amarilla: velocidad menor a",
+    "labelLineaRoja": "Línea roja: velocidad mayor a",
+
+    "labelTelefono": "Teléfono",
+    "labelInformacionDeContacto": "Información de contacto",
+
+    "labelDispositivoPorVencer": "{howMany, plural, one{tienes 1 dispositivo por vencer} other{tienes {howMany} dispositivos por vencer}}",
+    "labelExpiracion": "Expiración",
+    "labelFechaExpiracion": "Fecha de expiración",
+    "labelContrasenaNoCoincide": "Las contraseñas no coinciden",
+    "labelMostrarRecorrido": "Mostrar recorrido",
+
+    "labelAngulo": "Ángulo",
+
+    "labelIrA": "Ir a {ruta}",
+    "labelUltimaConexion": "Últ. Conexión",
+    "labelEncendido": "Encendido",
+    "labelApagado": "Apagado",
+    "labelBateriaInterna": "Bateria interna",
+    
+    "labelMostrarMas": "Mostrar más",
+    "labelmostrarMenos": "Mostrar menos",
+    "labelmostrarRecorrido": "Mostrar recorrido",
+    "descripcion": "Descripción",
+    "puntosDeInteres": "Puntos de interés",
+    "informe": "Informe",
+    "tipoDeInforme": "Tipo de informe",
+    "vehiculos": "vehículo(s)",
+    "consultar": "Consultar",
+    "errorSeleccioneUnInforme": "Seleccione un informe",
+    "errorAlObtenerLosInformes": "Error al obtener los informes",
+    "errorSeleccioneUnDocumento": "Seleccione un documento",
+    "tipoDeDocumento": "Tipo de documento",
+    "generarInforme": "Generar informe",
+    "ingreseUnValor": "Ingrese un valor",
+    "seleccioneUnValor": "Seleccione un valor",
+    "archivoDescargado": "Archivo descargado",
+    "problemasAlDescargarElArchivo": "Problemas al descargar el archivo",
+    "center": "Centrar",
+    "lockEngine": "Bloquear motor",
+    "desbloquearMotor": "Desbloquear motor",
+    "desbloquear": "Desbloquear",
+    "bloquear": "Bloquear"
+}

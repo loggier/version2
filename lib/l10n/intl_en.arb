@@ -1,0 +1,168 @@
+{
+    "etiquetaNombreDeUsuario": "Username",
+    "seHaEnviadoElComando": "The command has been sent",
+    "etiquetaContrasena": "Password",
+    "validacionNombreDeUsuario": "The value entered is not an email",
+    "validacionContrasena": "The password must be longer than 6 characters",
+    "validacionIdioma": "Select an option",
+    "idioma": "Language",
+    "espanol": "Spanish",
+    "ingles": "English",
+    "catalan": "Catalan",
+    "labelIniciarSesion": "Log In",
+    "prosecat": "Satellite Tracking System",
+    "mensaje": "Message",
+    "errorMensaje": "Incorrect data",
+    "aceptarMensaje": "Ok",
+
+    "labelMapas": "Maps",
+    "labelMapa": "Map",
+    "labelExpandir": "Expand",
+    "labelRutas": "Geofences",
+    "labelMiUbicacion": "Show spin",
+
+    "labelDispositivos": "Devices",
+    "labelAlertas": "Alerts",
+    "labelHistorial": "History",
+    "labelPerfil": "Profile",
+    "labelSalir": "Exit",
+
+    "labelResumen": "Summary",
+    "labelDetalle": "Detail",
+    "labelVelocidadMaxima": "Maximum Speed",
+    "labelDistancia": "Distance",
+    "labelMotorInactivo": "Motor inactive",
+    "labelConductor": "Driver",
+
+    "labelDireccion": "Address",
+    "labelTiempo": "Time",
+    "labelDuracionDeParada": "Stop Duration",
+    
+    "labelTodos": "All",    
+    "labelEnLinea": "Online",    
+    "labelDetenido": "Stopped",    
+    "labelDesconectado": "Disconnected",       
+    "labelFueraLinea": "Offline",  
+
+    "labelMostrarDia": "Show day",    
+    "haceSieteDias": "Seven days ago",     
+    "haceTresDias": "Three days ago",    
+    "anteayer": "The day before yesterday",     
+    "ayer": "Yesterday",    
+    "hoy": "Today",    
+    "manana": "Tomorrow",    
+    "labelDesde": "From",    
+    "labelHasta": "To",    
+    "labelAjustarCarretera": "Adjust to road",    
+    "si": "Yes",    
+    "no": "No",    
+    "labelMostrarHistorial": "Show History",    
+    "labelCancelar": "Cancel",
+    "errorNoElPrimerDia": "Please not the first day",
+
+    "labelAjustarPerfil": "Set up profile",
+    "labelCorreoElectronico": "Email",
+    "labelNuevaContrasena": "New password",
+    "labelConfirmarContrasena": "Confirm password",
+    "labelCambiarClave": "Change password",
+    
+    "tituloCompartir": "Share",
+    "labelSeleccioneLaFechaVigente": "Select the current date",
+    "labelGenerarLink": "Generate link",
+        
+    "labelComando": "Commands",
+    "labelSinComandos": "Co commands",
+
+    "labelDeseaEnviarElComando": "You want to send the command",
+    "labelAlaUnidad": "to the unit",
+
+    "labelBuscar": "Search",
+    
+    "labelNombre": "Name",
+    "labelFecha": "Date",
+    "labelPosicion": "Position",
+    "labelVelocidad": "Speed",
+    "labelAlerta": "Alerta",
+    
+    "labelConduccion": "Driving",
+    "labelInicio": "Start",
+    "labelFinalizo": "Finalized",
+    "labelParada": "Stop",
+    "labelFinDeConduccion": "End of driving",
+    "labelEvento": "Event",
+
+    "labelSensores": "Sensors",
+
+    "labelDispositivo": "Device",
+
+    "errorFechaMayor": "The start date cannot be greater than the end date",
+    "errorFechaMenor": "The end date cannot be less than the start date",
+
+    "errorSinDatos": "No data found",
+
+    "errorSeleccioneUnVehiculo": "Select a vehicle",
+
+    "labelVerUbicacion": "See location",
+
+    "labelSeleccioneUnaFecha": "Select a date",
+
+    "labelVistaDeCalle": "Street view",
+    "labelLatitud": "Latitude",
+    "labelLongitud": "Length",
+    "labelAltitud": "Altitude",
+    "labelArribo": "Arrival",
+    "labelPartio": "Departed",
+    "labelDuracion": "Duration",
+    "labelConsumo": "Consumption",
+    "labelCombustible": "Fuel",
+
+    "labelConfirmar": "Ok",
+
+    "labelSinAlertas": "No alerts",
+
+    "labelLineasDeVelocidad": "Speed lines",
+    "labelLineaVerde": "Green line: speed less than",
+    "labelLineaAmarilla": "Yellow line: speed less than",
+    "labelLineaRoja": "Red line: speed greater than",
+
+    "labelTelefono": "Phone",
+    "labelInformacionDeContacto": "Contact information",
+
+    "labelDispositivoPorVencer": "{howMany, plural, one{You have 1 device to expire} other{You have {howMany} devices to expire}}",
+    "labelExpiracion": "Expiration",
+    "labelFechaExpiracion": "Expiration date",
+    "labelContrasenaNoCoincide": "Passwords do not match",
+    "labelMostrarRecorrido": "Show tour",
+
+    "labelAngulo": "Angle",
+
+    "labelIrA": "Go to {ruta}",
+    "labelUltimaConexion": "Last connection",
+    "labelEncendido": "Ignition",
+    "labelApagado": "Off",
+    "labelBateriaInterna": "Internal battery",
+    
+    "labelMostrarMas": "Show more",
+    "labelmostrarMenos": "Show less",
+    "labelmostrarRecorrido": "Show tour",
+    "descripcion": "Description",
+    "puntosDeInteres": "Points of interest",
+    "informe": "Report",
+    "tipoDeInforme": "Report type",
+    "vehiculos": "Vehicle(s)",
+    "consultar": "Consult",
+    "errorSeleccioneUnInforme": "Select a report",
+    "errorAlObtenerLosInformes": "Error getting reports",
+    "errorSeleccioneUnDocumento": "Select a document",
+    "tipoDeDocumento": "Document type",
+    "generarInforme": "Generate report",
+    "ingreseUnValor": "Enter a value",
+    "seleccioneUnValor": "Select a value",
+    "archivoDescargado": "Downloaded file",
+    "problemasAlDescargarElArchivo": "Problems downloading the file",
+    "center": "Center",
+    "lockEngine": "Lock engine",
+    "desbloquearMotor": "Unlock engine",
+    "desbloquear": "Unlock",
+    "bloquear": "Lock"
+}
